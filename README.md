@@ -12,7 +12,7 @@ Researcher and developer fullstack of software solutions, focus on development f
 
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diogosalmeida)](https://github.com/diogosalmeida/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diogosalmeida)]
 
 
               
