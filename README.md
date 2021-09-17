@@ -10,4 +10,9 @@ Researcher and developer fullstack of software solutions, focus on development f
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogosalmeida&show_icons=true&theme=radical)
 
+<br>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diogosalmeida)](https://github.com/anuraghazra/github-readme-stats)
+
+
               
