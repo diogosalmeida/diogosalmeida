@@ -10,7 +10,6 @@ Researcher and developer fullstack of software solutions, focus on development f
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogosalmeida&show_icons=true&theme=radical)
 
-<br>
 
 ## Most used languages
 
