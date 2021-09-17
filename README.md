@@ -8,5 +8,6 @@ Researcher and developer fullstack of software solutions, focus on development f
 
 <br>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="diogosalmeida" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/diogosalmeida?trk=profile-badge">Diogo Santos Almeida</a></div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogosalmeida&show_icons=true&theme=radical)
+
               
