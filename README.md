@@ -2,7 +2,7 @@
 
 ##### I'm Diogo 👋
 
-https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+[![Spotify](https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/diogomean?si=489a118ecddd4272)
 
 ## About
 
