@@ -2,6 +2,8 @@
 
 ##### I'm Diogo 👋
 
+https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+
 ## About
 
 Researcher and developer fullstack of software solutions, focus on development for internet always aiming at emerging technologies, more than 10 years of experience with the most varied scenarios and problems within computer systems.
