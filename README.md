@@ -21,5 +21,7 @@ Researcher and developer fullstack of software solutions, focus on development f
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosalmeida&langs_count=8)](https://github.com/diogosalmeida/github-readme-stats)
 
 
+## Daily.dev
 
+<a href="https://app.daily.dev/diogosalmeida"><img src="https://avatars.githubusercontent.com/u/9199637?v=4" width="200" alt="Daniel Sitnik's Dev Card"/></a>
               
