@@ -23,5 +23,5 @@ Researcher and developer fullstack of software solutions, focus on development f
 
 ## Daily.dev
 
-<a href="https://app.daily.dev/diogosalmeida"><img src="https://avatars.githubusercontent.com/u/9199637?v=4" width="200" alt="Daniel Sitnik's Dev Card"/></a>
+<a href="https://app.daily.dev/diogosalmeida"><img src="https://app.daily.dev/diogosalmeida" width="200" alt="Daniel Sitnik's Dev Card"/></a>
               
