@@ -23,5 +23,5 @@ Researcher and developer fullstack of software solutions, focus on development f
 
 ## Daily.dev
 
-<a href="https://app.daily.dev/diogosalmeida"><img src="https://app.daily.dev/diogosalmeida" width="200" alt="Diogo Almeida Dev Card"/></a>
+<a href="https://app.daily.dev/diogosalmeida"><img src="https://api.daily.dev/devcards/044abb8d42704c24a2f566a75525c1b0.png?r=vn6" width="200" alt="Diogo Almeida Dev Card"/></a>
               
