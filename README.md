@@ -4,12 +4,6 @@
 
 [![Spotify](https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/diogomean?si=489a118ecddd4272)
 
-## Technologies
-
-[Fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-
-[Express] ([https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white))
-
 ## About
 
 Researcher and developer fullstack of software solutions, focus on development for internet always aiming at emerging technologies, more than 10 years of experience with the most varied scenarios and problems within computer systems.
