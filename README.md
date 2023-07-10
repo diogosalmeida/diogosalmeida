@@ -4,7 +4,11 @@
 
 [![Spotify](https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/diogomean?si=489a118ecddd4272)
 
-![Fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+## Technologies
+
+[Fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+
+[Express] (https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## About
 
